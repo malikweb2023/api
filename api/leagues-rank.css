@@ -26,7 +26,7 @@ table.standings tbody tr:hover{background:#d5f7d9!important}
 table.standings tbody tr th:nth-child(1){width:80px!important}
 table.standings tbody tr th:nth-child(2){text-align:right!important}
 table.standings tbody td{padding:8px 4px}
-table.standings tbody tr th img.teamlogo{width:30px!important;height:30px!important;margin:6px auto;vertical-align:middle;margin-left:12px}
+table.standings tbody tr th img.teamlogo{width:30px!important;height:30px!important;margin:6px auto;vertical-align:middle!important;margin-left:12px!important;border:0!important;padding:0!important}
 @media screen and (max-width:450px){
 .LeagueRank .LeagueName {font-size:16px}
 .LeagueRank .LeagueName img{width:40px;max-height:50px;margin-left:6px}
